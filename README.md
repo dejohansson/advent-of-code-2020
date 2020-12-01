@@ -1,3 +1,6 @@
 # Advent of Code 2020
 
-![Advent of Code {'year':2020}](https://i.imgur.com/ucy1Q4r.png)
+<div>
+<img src="https://i.imgur.com/Rnd7SuX.png" alt="drawing" height="120"/>
+<img src="https://avatars0.githubusercontent.com/u/23171659?s=400&v=4" alt="drawing" height="120"/>
+<div>
